@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+I study computer vision and machine learning related topics including how they apply to augmented reality.
